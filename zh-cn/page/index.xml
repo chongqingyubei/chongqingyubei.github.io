@@ -6,12 +6,13 @@
         <description>Recent content in Pages on 演示站点</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Eric Embroidery Workshop</copyright><atom:link href="https://chongqingyubei.github.io/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>关于</title>
-        <link>https://chongqingyubei.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <copyright>Eric Embroidery Workshop</copyright>
+        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chongqingyubei.github.io/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://chongqingyubei.github.io/zh-cn/about/</link>
+        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://chongqingyubei.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://chongqingyubei.github.io/zh-cn/about/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>

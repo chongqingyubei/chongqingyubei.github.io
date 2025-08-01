@@ -7,37 +7,29 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Eric Embroidery Workshop</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://chongqingyubei.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Syntax</title>
-        <link>https://chongqingyubei.github.io/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://chongqingyubei.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Equipment Usage</title>
+        <link>https://chongqingyubei.github.io/categories/equipment-usage/</link>
+        <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://chongqingyubei.github.io/categories/syntax/</guid>
+        <guid>https://chongqingyubei.github.io/categories/equipment-usage/</guid>
         <description></description>
         </item>
         <item>
-        <title>Themes</title>
-        <link>https://chongqingyubei.github.io/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Handicraft Tutorials</title>
+        <link>https://chongqingyubei.github.io/categories/handicraft-tutorials/</link>
+        <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://chongqingyubei.github.io/categories/themes/</guid>
+        <guid>https://chongqingyubei.github.io/categories/handicraft-tutorials/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
         <link>https://chongqingyubei.github.io/categories/test/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://chongqingyubei.github.io/categories/test/</guid>
         <description>&lt;img src="https://chongqingyubei.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
-        <item>
-        <title>Test With Whitespaces</title>
-        <link>https://chongqingyubei.github.io/categories/test-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://chongqingyubei.github.io/categories/test-with-whitespaces/</guid>
-        <description></description>
         </item>
         
     </channel>
