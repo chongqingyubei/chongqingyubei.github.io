@@ -55,6 +55,16 @@
   </url><url>
     <loc>https://chongqingyubei.github.io/post/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://chongqingyubei.github.io/zh-cn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chongqingyubei.github.io/post/"
+                />
   </url><url>
     <loc>https://chongqingyubei.github.io/tags/sewing-techniques/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
@@ -109,10 +119,61 @@
     <loc>https://chongqingyubei.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://chongqingyubei.github.io/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chongqingyubei.github.io/p/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chongqingyubei.github.io/categories/test/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://chongqingyubei.github.io/zh-cn/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chongqingyubei.github.io/categories/test/"
+                />
+  </url><url>
     <loc>https://chongqingyubei.github.io/</loc>
+  </url><url>
+    <loc>https://chongqingyubei.github.io/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://chongqingyubei.github.io/zh-cn/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://chongqingyubei.github.io/ar/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chongqingyubei.github.io/archives/"
+                />
   </url><url>
     <loc>https://chongqingyubei.github.io/search/</loc>
   </url><url>
-    <loc>https://chongqingyubei.github.io/categories/test/</loc>
+    <loc>https://chongqingyubei.github.io/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://chongqingyubei.github.io/zh-cn/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://chongqingyubei.github.io/ar/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chongqingyubei.github.io/search/"
+                />
   </url>
 </urlset>

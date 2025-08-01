@@ -36,6 +36,40 @@
                 href="https://chongqingyubei.github.io/ar/tags/"
                 />
   </url><url>
+    <loc>https://chongqingyubei.github.io/ar/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chongqingyubei.github.io/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://chongqingyubei.github.io/zh-cn/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://chongqingyubei.github.io/ar/archives/"
+                />
+  </url><url>
+    <loc>https://chongqingyubei.github.io/ar/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chongqingyubei.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://chongqingyubei.github.io/zh-cn/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://chongqingyubei.github.io/ar/search/"
+                />
+  </url><url>
     <loc>https://chongqingyubei.github.io/ar/</loc>
     <xhtml:link
                 rel="alternate"

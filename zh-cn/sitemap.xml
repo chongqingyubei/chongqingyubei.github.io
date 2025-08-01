@@ -47,6 +47,7 @@
                 />
   </url><url>
     <loc>https://chongqingyubei.github.io/zh-cn/categories/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -63,6 +64,38 @@
                 href="https://chongqingyubei.github.io/zh-cn/categories/"
                 />
   </url><url>
+    <loc>https://chongqingyubei.github.io/zh-cn/p/test-chinese/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chongqingyubei.github.io/zh-cn/post/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chongqingyubei.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://chongqingyubei.github.io/zh-cn/post/"
+                />
+  </url><url>
+    <loc>https://chongqingyubei.github.io/zh-cn/categories/test/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chongqingyubei.github.io/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://chongqingyubei.github.io/zh-cn/categories/test/"
+                />
+  </url><url>
+    <loc>https://chongqingyubei.github.io/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chongqingyubei.github.io/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -78,6 +111,40 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://chongqingyubei.github.io/zh-cn/tags/"
+                />
+  </url><url>
+    <loc>https://chongqingyubei.github.io/zh-cn/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chongqingyubei.github.io/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://chongqingyubei.github.io/ar/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://chongqingyubei.github.io/zh-cn/archives/"
+                />
+  </url><url>
+    <loc>https://chongqingyubei.github.io/zh-cn/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chongqingyubei.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://chongqingyubei.github.io/ar/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://chongqingyubei.github.io/zh-cn/search/"
                 />
   </url>
 </urlset>
