@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Example Site</title>
+        <title>Tags on Eric</title>
         <link>https://chongqingyubei.github.io/tags/</link>
-        <description>Recent content in Tags on Example Site</description>
+        <description>Recent content in Tags on Eric</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Eric Embroidery Workshop</copyright>
-        <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://chongqingyubei.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://chongqingyubei.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>DST File</title>
+        <link>https://chongqingyubei.github.io/tags/dst-file/</link>
+        <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://chongqingyubei.github.io/tags/dst-file/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Free Embroidery Design</title>
+        <link>https://chongqingyubei.github.io/tags/free-embroidery-design/</link>
+        <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://chongqingyubei.github.io/tags/free-embroidery-design/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>DIY Crafts</title>
         <link>https://chongqingyubei.github.io/tags/diy-crafts/</link>
         <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
@@ -37,62 +53,6 @@
         <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://chongqingyubei.github.io/tags/sewing-techniques/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Css</title>
-        <link>https://chongqingyubei.github.io/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://chongqingyubei.github.io/tags/css/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Html</title>
-        <link>https://chongqingyubei.github.io/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://chongqingyubei.github.io/tags/html/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Markdown</title>
-        <link>https://chongqingyubei.github.io/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://chongqingyubei.github.io/tags/markdown/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://chongqingyubei.github.io/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://chongqingyubei.github.io/tags/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tag With Whitespaces</title>
-        <link>https://chongqingyubei.github.io/tags/tag-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://chongqingyubei.github.io/tags/tag-with-whitespaces/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Text</title>
-        <link>https://chongqingyubei.github.io/tags/text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://chongqingyubei.github.io/tags/text/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Emoji</title>
-        <link>https://chongqingyubei.github.io/tags/emoji/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://chongqingyubei.github.io/tags/emoji/</guid>
         <description></description>
         </item>
         
